@@ -76,7 +76,7 @@
           v-on="on"
         >
           <v-icon>mdi-account</v-icon>
-          <span>John Leider</span>
+          <span>Nikola Busic</span>
         </v-btn>
       </template>
       <v-list
